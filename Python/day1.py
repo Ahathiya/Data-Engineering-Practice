@@ -1,7 +1,7 @@
 ## Day 1
 
 """A practical introduction to Python variables and built-in data types."""
-
+##
 # A variable is a name referring to an object. Python infers its type, so no
 # declaration is required. Names are case-sensitive and should be descriptive.
 name = "Alice"
